@@ -1,0 +1,3 @@
+esse é o codigo pra crirar "vim"
+dps para salvar é :w
+dps :q
